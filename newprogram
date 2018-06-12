@@ -1,0 +1,2 @@
+cls
+write-host "Hello world"
